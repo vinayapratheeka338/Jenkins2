@@ -18,5 +18,6 @@ public class OpenAmazon {
         System.out.println("CI Auto Build Check");
         System.out.println("Build 3");
         System.out.println("Build 4");
+        System.out.println("Build 5");
 	}
 }
