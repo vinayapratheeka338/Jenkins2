@@ -14,5 +14,6 @@ public class OpenAmazon {
         Thread.sleep(3000);
         System.out.println(driver.getTitle());
         driver.quit();
+        System.out.println("Checking CI Trigger");
 	}
 }
