@@ -15,5 +15,6 @@ public class OpenAmazon {
         System.out.println(driver.getTitle());
         driver.quit();
         System.out.println("Checking CI Trigger");
+        System.out.println("CI Auto Build Check");
 	}
 }
