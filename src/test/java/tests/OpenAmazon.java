@@ -16,5 +16,6 @@ public class OpenAmazon {
         driver.quit();
         System.out.println("Checking CI Trigger");
         System.out.println("CI Auto Build Check");
+        System.out.println("Build 3");
 	}
 }
